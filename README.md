@@ -13,7 +13,8 @@ BSBXCS404 - Contribute to cyber security risk management.
 
 ICTICT443 - Work collaboratively in the ICT industry.
 
-ICTICT451 - Comply with IP, ethics and privacy policies in ICT environments.
+ICTICT451 - Comply with IP, ethics and privacy policies in ICT environments. <br>
+read up https://www.ipaustralia.gov.au/ <br>
 
 ICTAII401 - Identify opportunities to apply artificial intelligence, machine learning and deep learning.
 
