@@ -1,5 +1,4 @@
 # ICT Analysis class
-andrew.scarborough2@tafensw.edu.au
 
 BSBCRT404 - Apply advanced critical thinking to work processes.
 
