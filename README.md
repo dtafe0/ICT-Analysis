@@ -7,6 +7,16 @@ ICTICT426 - Identify and evaluate emerging technologies and practices.
 
 ICTSAS432 - Identify and resolve client ICT problems.
 
+Afternoon Units of study.
+
+BSBXCS404 - Contribute to cyber security risk management.
+
+ICTICT443 - Work collaboratively in the ICT industry.
+
+ICTICT451 - Comply with IP, ethics and privacy policies in ICT environments.
+
+ICTAII401 - Identify opportunities to apply artificial intelligence, machine learning and deep learning.
+
 
 What does ICT Technical Support Do?
 1. Troubleshooting IT issues faced by employees <br>
